@@ -1,0 +1,7 @@
+".\Objects\main.obj",
+".\Objects\lcd1602.obj",
+".\Objects\ds18b20.obj",
+".\Objects\smg.obj",
+".\Objects\public.obj" 
+TO ".\Objects\project_template" 
+PRINT(".\Listings\project_template.m51") RAMSIZE(256) 
